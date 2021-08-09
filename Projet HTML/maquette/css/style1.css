@@ -1,0 +1,25 @@
+div.grid-item{
+	background-color: #efefef;
+	height: 200px;
+	width: 275px;
+	float: left;
+	margin: 20px;
+	padding: 10px;
+	display: left;
+}
+p1{
+	color: #f28b1d;
+}
+.footer{
+	background-color: #4980c1;
+	height: 70px;
+	margin: 00px;
+}
+.footer1{
+	background-color: #07004c;
+	height: 200px;
+	margin: 10px;
+}
+form{
+	margin: 10px;
+}

@@ -1,0 +1,39 @@
+div.grid-item{
+    background-color: efefef;
+    height: 190px;
+    width: 275px;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+   display: left;
+
+}
+form{
+    margin: 10px;
+}
+.footer{
+    background-color: 4980c1;
+    height: 70px;
+    margin: 00px;
+
+    
+}
+.footer1{
+    background-color: 07004c;
+    height: 200px;
+    margin: 10px;
+
+   
+}
+.gris{
+    background-color: f4f4f4;
+    height: 70px;
+    margin: 00px;
+    padding: 10px;
+
+    
+}
+a{
+    color: f1b78a;
+    text-decoration: underline;
+}

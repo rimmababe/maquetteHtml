@@ -1,0 +1,45 @@
+body{
+	margin: 0%;
+	padding: 0%;
+}
+.header{
+	background-color: #07004c;
+	height: 70px;
+	margin: 10px;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+}
+ul li a{
+	color: #fff;
+	letter-spacing: 0.1rem;
+}
+ul li a:hover{
+	color: #ffd358;
+	text-decoration: underline;
+}
+.menu li{
+	float: center;
+	padding: 40px;
+}
+.menu li a{
+	text-decoration: none;
+}
+#publication{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 30px;
+	flex-wrap: wrap;
+
+}
+#toutvoir{
+	font-size: 12px;
+	text-align: right;
+}
+
+
+
+
